@@ -3,8 +3,8 @@ package Entitites;
 public class Employee {
 	
 	private String name ;
-	protected Integer hours;
-	protected Double valueperHour;
+	private Integer hours;
+	private Double valueperHour;
 	
 	
 	public Employee() {
